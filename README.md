@@ -8,7 +8,7 @@
  ![Map](https://github.com/user-attachments/assets/0a612600-a53e-4f65-90ae-59b4683528dc)
 
 
-
+![piechart](https://github.com/user-attachments/assets/a3ae21b4-da44-45f9-b899-95709804d66a)
 
 **Data** - HR Data with over 22000 rows from the year 2000 to 2020.
 
