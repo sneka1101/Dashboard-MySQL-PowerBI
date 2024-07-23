@@ -1,0 +1,14 @@
+department,"round(avg(datediff(termdate,hire_date)/365))"
+Engineering,NULL
+Services,NULL
+"Human Resources",NULL
+"Business Development",NULL
+Sales,NULL
+Support,NULL
+Auditing,NULL
+Marketing,NULL
+Training,NULL
+Accounting,NULL
+"Research and Development",NULL
+"Product Management",NULL
+Legal,NULL
